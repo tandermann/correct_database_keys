@@ -1,0 +1,195 @@
+Cluster#0: Aaptorcytes ivyi, Aaptorcytes ivyi, Aaptoryctes ivyi, Aaptoryctes ivyi, Aaptoryctes ivyi
+Cluster#1: Abderites meridionalis, Abderites meridionalis, Abderites meridionalis, Abderites meridionalis, Abderites meridionalis, Abderites meridionalis
+Cluster#2: Abdounodus hamdii
+Cluster#3: Abelmoschomys phthanus
+Cluster#4: Abelmoschomys simpsoni, Abelmoschomys simpsoni
+Cluster#5: Abelmoschomys valensis, Abelmoschomys valensis, Abelmoschomys valensis, Abelmoschomys valensis, Abelmoschomys valensis
+Cluster#6: Abelmoschomys vasquezi
+Cluster#7: Abeomelomys sevia, Abeomelomys sevia, Abeomelomys sevia, Abeomelomys sevia, Abeomelomys sevia, Abeomelomys sevia
+Cluster#8: Aboletylestes hypselus, Aboletylestes hypselus
+Cluster#9: Aboletylestes robustus
+Cluster#10: Abothrodon pricei
+Cluster#11: Abrosomys agasma
+Cluster#12: Abrothrix illuteus
+Cluster#13: Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti, Absarokius abbotti
+Cluster#14: Absarokius ganzini, Absarokius ganzini, Absarokius gazini, Absarokius gazini, Absarokius gazini
+Cluster#15: Absarokius meteocus, Absarokius meteocus, Absarokius meteocus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus, Absarokius metoecus
+Cluster#16: Abudhabia baheensis, Abudhabia baheensis, Abudhabia baheensis, Abudhabia baheensis
+Cluster#17: Abudhabia baynunensis, Abudhabia baynunensis
+Cluster#18: Abudhabia kabulense, Abudhabia kabulense
+Cluster#19: Abudhabia radinskyi
+Cluster#20: Abudhabia yardangi
+Cluster#21: Acamana ambiguus
+Cluster#22: Acarechimys leucotheae
+Cluster#23: Acarechimys minutissimus, Acarechimys minutissimus, Acarechimys minutissimus, Acarechimys minutissimus, Acarechimys minutissimus
+Cluster#24: Acaremys major
+Cluster#25: Acaremys messor
+Cluster#26: Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus, Acaremys murinus
+Cluster#27: Acaremys preminutus
+Cluster#28: Acaremys tricarinatus, Acaremys tricarinatus, Acaremys tricarinatus
+Cluster#29: Acarictis ryani, Acarictis ryani, Acarictis ryani, Acarictis ryani, Acarictis ryani, Acarictis ryani, Acarictis ryani, Acarictis ryani, Acarictis ryani, Acarictis ryani
+Cluster#30: Accipiter gentilis, Accipiter gentilis
+Cluster#31: Accipitridae bone, Accipitridae bone
+Cluster#32: Accipitridae undiff
+Cluster#33: Acdestis lemairei, Acdestis lemairei
+Cluster#34: Acdestis maddeni
+Cluster#35: Acdestis oweni, Acdestis oweni, Acdestis oweni, Acdestis oweni, Acdestis oweni
+Cluster#36: Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum, Aceratherium acutirostratum
+Cluster#37: Aceratherium alfambrense
+Cluster#38: Aceratherium campbelli
+Cluster#39: Aceratherium gobiense, Aceratherium gobiense
+Cluster#40: Aceratherium huadeensis
+Cluster#41: Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum, Aceratherium incisivum
+Cluster#42: Aceratherium lydekkeri
+Cluster#43: Aceratherium paulhiacensis
+Cluster#44: Aceratherium perimense, Aceratherium perimense
+Cluster#45: Aceratherium simorrense, Aceratherium simorrense
+Cluster#46: Aceratherium simplex, Aceratherium simplex
+Cluster#47: Aceratherium transcaucasicum, Aceratherium transcaucasicum
+Cluster#48: Acerorhinus fuguensis, Acerorhinus fuguensis
+Cluster#49: Acerorhinus hezhengensis, Acerorhinus hezhengensis, Acerorhinus hezhengensis, Acerorhinus hezhengensis, Acerorhinus hezhengensis, Acerorhinus hezhengensis
+Cluster#50: Acerorhinus palaeosinensis, Acerorhinus palaeosinensis, Acerorhinus palaeosinensis, Acerorhinus palaeosinensis, Acerorhinus palaeosinensis
+Cluster#51: Acerorhinus tianzhuense, Acerorhinus tianzhuense
+Cluster#52: Acerorhinus tsaidamensis, Acerorhinus tsaidamensis, Acerorhinus tsaidamensis, Acerorhinus tsaidamensis
+Cluster#53: Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi, Acerorhinus zernowi
+Cluster#54: Aceroryctes dulcis, Aceroryctes dulcis
+Cluster#55: Achaenodon fremdi, Achaenodon fremdi
+Cluster#56: Achaenodon insolens, Achaenodon insolens, Achaenodon insolens
+Cluster#57: Achaenodon robustus, Achaenodon robustus, Achaenodon robustus, Achaenodon robustus, Achaenodon robustus, Achaenodon robustus, Achaenodon robustus, Achaenodon robustus, Achaenodon robustus, Achaenodon robustus
+Cluster#58: Achaenodon uintensis, Achaenodon uintensis, Achaenodon uintensis
+Cluster#59: Acheronictis webbi, Acheronictis webbi, Acheronictis webbi
+Cluster#60: Acheronodon garbani, Acheronodon garbani
+Cluster#61: Acheronodon vossae, Acheronodon vossae
+Cluster#62: Achlyoscapter longirostris, Achlyoscapter longirostris, Achlyoscapter longirostris, Achlyoscapter longirostris, Achlyoscapter longirostris
+Cluster#63: Acidomomys hebeticus, Acidomomys hebeticus
+Cluster#64: Acinacodus tagaricus
+Cluster#65: Acinonyx aicha, Acinonyx aicha
+Cluster#66: Acinonyx brachygnathus
+Cluster#67: Acinonyx crassidens
+Cluster#68: Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus, Acinonyx jubatus
+Cluster#69: Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis, Acinonyx pardinensis
+Cluster#70: Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus, Acinonyx pleistocaenicus
+Cluster#71: Aclistomycter middletoni, Aclistomycter middletoni, Aclistomycter middletoni, Aclistomycter middletoni, Aclistomycter middletoni, Aclistomycter middletoni, Aclistomycter middletoni
+Cluster#72: Acmeodon hyoni, Acmeodon hyoni
+Cluster#73: Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans, Acmeodon secans
+Cluster#74: Acoelodus debilitatus
+Cluster#75: Acoelodus oppositus
+Cluster#76: Acoelodus proclivus
+Cluster#77: Acoelodus terminalis
+Cluster#78: Acoelohyrax coalitus
+Cluster#79: Acoelohyrax coarctatus
+Cluster#80: Acoelohyrax complicatissimus
+Cluster#81: Acoelohyrax coronatus
+Cluster#82: Acoelohyrax sigma
+Cluster#83: Acomys cahirinus
+Cluster#84: Acomys coppensi
+Cluster#85: Acomys spinosissimus, Acomys spinosissimus
+Cluster#86: Acotherulum campichii, Acotherulum campichii, Acotherulum campichii, Acotherulum campichii, Acotherulum campichii, Acotherulum campichii
+Cluster#87: Acotherulum pumilum, Acotherulum pumilum, Acotherulum pumilum
+Cluster#88: Acotherulum quercyi, Acotherulum quercyi, Acotherulum quercyi, Acotherulum quercyi, Acotherulum quercyi
+Cluster#89: Acotherulum saturninum, Acotherulum saturninum, Acotherulum saturninum, Acotherulum saturninum, Acotherulum saturninum
+Cluster#90: Acrecebus fraileyi, Acrecebus fraileyi
+Cluster#91: Acristatherium yanensis
+Cluster#92: Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus, Acritohippus isonesus
+Cluster#93: Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni, Acritohippus quinni
+Cluster#94: Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus, Acritohippus stylodontus
+Cluster#95: Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius, Acritohippus tertius
+Cluster#96: Acritoparamys atavus, Acritoparamys atavus, Acritoparamys atavus, Acritoparamys atavus, Acritoparamys atavus, Acritoparamys atavus
+Cluster#97: Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri, Acritoparamys atwateri
+Cluster#98: Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi, Acritoparamys francesi
+Cluster#99: Acritoparamys pattersoni, Acritoparamys pattersoni, Acritoparamys pattersoni, Acritoparamys pattersoni, Acritoparamys pattersoni, Acritoparamys pattersoni, Acritoparamys pattersoni, Acritoparamys pattersoni, Acritoparamys pattersoni
+Cluster#100: Acritoparamys wutui
+Cluster#101: Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis, Acritoparamys wyomingensis
+Cluster#102: Acritophiomys bowni
+Cluster#103: Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus, Acrobates pygmaeus
+Cluster#104: Acrocyon riggsi, Acrocyon riggsi, Acrocyon riggsi
+Cluster#105: Acrocyon sectorius, Acrocyon sectorius, Acrocyon sectorius, Acrocyon sectorius
+Cluster#106: Acrophoca longirostris, Acrophoca longirostris, Acrophoca longirostris
+Cluster#107: Acrophyseter deinodon
+Cluster#108: Acrophyseter robustus
+Cluster#109: Acropithecus rigidus, Acropithecus rigidus, Acropithecus rigidus, Acropithecus rigidus, Acropithecus rigidus, Acropithecus rigidus, Acropithecus rigidus, Acropithecus rigidus, Acropithecus rigidus
+Cluster#110: Acrotitan ulanshirehensis
+Cluster#111: Actenomys priscus, Actenomys priscus, Actenomys priscus, Actenomys priscus, Actenomys priscus, Actenomys priscus, Actenomys priscus, Actenomys priscus, Actenomys priscus, Actenomys priscus
+Cluster#112: Acteocemas beatrix
+Cluster#113: Acteocemas infans, Acteocemas infans, Acteocemas infans, Acteocemas infans, Acteocemas infans
+Cluster#114: Actinemys marmorata
+Cluster#115: Actiocyon leardi
+Cluster#116: Actiocyon parverratis, Actiocyon parverratis
+Cluster#117: Acyon myctoderos, Acyon myctoderos
+Cluster#118: Acyon tricuspidatus, Acyon tricuspidatus, Acyon tricuspidatus, Acyon tricuspidatus, Acyon tricuspidatus
+Cluster#119: Adapidium huanghoense
+Cluster#120: Adapis collinsonae
+Cluster#121: Adapis parisiensis, Adapis parisiensis, Adapis parisiensis, Adapis parisiensis, Adapis parisiensis, Adapis parisiensis, Adapis parisiensis, Adapis parisiensis, Adapis parisiensis, Adapis parisiensis
+Cluster#122: Adapis sudrei
+Cluster#123: Adapisorex gaudryi
+Cluster#124: Adapisoriculus minimus
+Cluster#125: Adapoides troglodytes
+Cluster#126: Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia, Adcrocuta eximia
+Cluster#127: Adeloblarina berklandi, Adeloblarina berklandi, Adeloblarina berklandi, Adeloblarina berklandi
+Cluster#128: Adelodelphys muizoni, Adelodelphys muizoni, Adelodelphys muizoni, Adelodelphys muizoni
+Cluster#129: Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti, Adelomyarion vireti
+Cluster#130: Adelomys fontensis
+Cluster#131: Adelphailurus kansensis, Adelphailurus kansensis, Adelphailurus kansensis, Adelphailurus kansensis, Adelphailurus kansensis, Adelphailurus kansensis, Adelphailurus kansensis
+Cluster#132: Adelpharctos ginsburgi
+Cluster#133: Adelpharctos mirus
+Cluster#134: Adelphomys candidus, Adelphomys candidus
+Cluster#135: Adianthus bucatus
+Cluster#136: Adiantoides leali
+Cluster#137: Adiantoides magnus
+Cluster#138: Adiastaltus habilis, Adiastaltus habilis
+Cluster#139: Adiastaltus procerus
+Cluster#140: Adilophontes brachykolos, Adilophontes brachykolos, Adilophontes brachykolos, Adilophontes brackykolos
+Cluster#141: Adinodon pattersoni
+Cluster#142: Adinotherium ferum, Adinotherium ferum
+Cluster#143: Adinotherium ovinum, Adinotherium ovinum, Adinotherium ovinum, Adinotherium ovinum, Adinotherium ovinum, Adinotherium ovinum, Adinotherium ovinum, Adinotherium ovinum
+Cluster#144: Adinotherium robustum, Adinotherium robustum
+Cluster#145: Adjidaumo burkei, Adjidaumo burkei, Adjidaumo burkei, Adjidaumo burkei
+Cluster#146: Adjidaumo craigi, Adjidaumo craigi, Adjidaumo craigi
+Cluster#147: Adjidaumo intermedius, Adjidaumo intermedius, Adjidaumo intermedius, Adjidaumo intermedius, Adjidaumo intermedius, Adjidaumo intermedius
+Cluster#148: Adjidaumo maximus, Adjidaumo maximus, Adjidaumo maximus, Adjidaumo maximus, Adjidaumo maximus
+Cluster#149: Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus, Adjidaumo minimus
+Cluster#150: Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus, Adjidaumo minutus
+Cluster#151: Adolomys ameristus
+Cluster#152: Adunator fredericki, Adunator fredricki
+Cluster#153: Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae, Adunator ladae
+Cluster#154: Adunator martinezi, Adunator martinezi
+Cluster#155: Advenimus bohlini
+Cluster#156: Advenimus burkei, Advenimus burkei, Advenimus burkei
+Cluster#157: Advenimus hupeiensis, Advenimus hupeiensis
+Cluster#158: Advenimus ulungurensis, Advenimus ulungurensis
+Cluster#159: Aegialodon dawsoni, Aegialodon dawsoni
+Cluster#160: Aegyptocetus tarfa
+Cluster#161: Aegyptonycteris knightae
+Cluster#162: Aegyptopithecus savagi
+Cluster#163: Aegyptopithecus zeuxis, Aegyptopithecus zeuxis, Aegyptopithecus zeuxis, Aegyptopithecus zeuxis
+Cluster#164: Aegyrcitherium beonensis
+Cluster#165: Aelurocyon brevifacies, Aelurocyon brevifacies
+Cluster#166: Aelurocyon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox, Aelurodon ferox
+Cluster#167: Aelurodon aesthenostylus, Aelurodon aesthenostylus, Aelurodon aesthenostylus, Aelurodon aesthenostylus, Aelurodon aesthenostylus, Aelurodon aesthenostylus, Aelurodon aesthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus, Aelurodon asthenostylus
+Cluster#168: Aelurodon francisi
+Cluster#169: Aelurodon marshi
+Cluster#170: Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi, Aelurodon mcgrewi
+Cluster#171: Aelurodon montanensis, Aelurodon montanensis
+Cluster#172: Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni, Aelurodon stirtoni
+Cluster#173: Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides, Aelurodon taxoides
+Cluster#174: Aelurodon wheelerianus
+Cluster#175: Aenigmadelphys archeri, Aenigmadelphys archeri
+Cluster#176: Aenigmys diamantensis
+Cluster#177: Aepinacodon americanus, Aepinacodon americanus, Aepinacodon americanus
+Cluster#178: Aepinacodon deflectus, Aepinacodon deflectus
+Cluster#179: Aepycamelus alexandrae, Aepycamelus alexandrae, Aepycamelus alexandrae, Aepycamelus alexandrae, Aepycamelus alexandrae, Aepycamelus alexandrae, Aepycamelus alexandrae
+Cluster#180: Aepycamelus bradyi, Aepycamelus bradyi
+Cluster#181: Aepycamelus elrodi
+Cluster#182: Aepycamelus giraffinus, Aepycamelus giraffinus, Aepycamelus giraffinus, Aepycamelus giraffinus, Aepycamelus giraffinus
+Cluster#183: Aepycamelus major, Aepycamelus major, Aepycamelus major, Aepycamelus major, Aepycamelus major, Aepycamelus major, Aepycamelus major, Aepycamelus major, Aepycamelus major, Aepycamelus major
+Cluster#184: Aepycamelus priscus, Aepycamelus priscus
+Cluster#185: Aepycamelus proceras, Aepycamelus proceras
+Cluster#186: Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus, Aepycamelus robustus
+Cluster#187: Aepycamelus stocki, Aepycamelus stocki, Aepycamelus stocki, Aepycamelus stocki
+Cluster#188: Aepyceros datoadeni, Aepyceros datoadeni
+Cluster#189: Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros melampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus, Aepyceros premelampus
+Cluster#190: Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae, Aepyceros shungurae
+Cluster#191: Aepyosciurus orientalis
+Cluster#192: Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus, Aepypodius arfakianus
+Cluster#193: Aepyprymnus rufescens, Aepyprymnus rufescens, Aepyprymnus rufescens, Aepyprymnus rufescens, Aepyprymnus rufescens, Aepyprymnus rufescens, Aepyprymnus rufescens
+Original number of categories: 202
