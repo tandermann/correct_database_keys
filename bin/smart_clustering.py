@@ -7,9 +7,9 @@ from scipy.io import mmread
 from fuzzywuzzy import fuzz
 from sklearn.cluster import DBSCAN
 
-def smart_cluster_based_on_matrix(scipy_matrix, original_list):
+def smart_cluster_based_on_matrix(scipy_matrix, original_list,sim_value):
     # takes is scipy matrix and the list  and returns a pandas df with the identified clusters
-    clust = DBSCAN(eps=0.1, min_samples=1, metric="precomputed")
+    clust = DBSCAN(eps=float(sim_value), min_samples=1, metric="precomputed")
     clust.fit(scipy_matrix)
     # print cluster report
     preds = clust.labels_
